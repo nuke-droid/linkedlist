@@ -136,15 +136,13 @@ public:
 };
 //main program
 int main() {
-    /* Start with the empty list */
+    
     struct Node* head = NULL;
     
     linkedlist ll;
 
     int targetDeletion, loc, choice, value;
-    // Insert 40 as last node
-    //insert_end(&head, 40);
-    //int loc = find(&head, x);
+  
 
     do {
 
